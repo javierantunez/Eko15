@@ -9,10 +9,10 @@ Hola! esperamos que como nosotros esten manija con este entrenamiento. A continu
 Equipamiento necesario
 ----------------------
 Parte de los laboratorios los realizaremos localmente en las laptops, por lo que es importante contar con un equipo que cumpla con los siguientes requisitos:
-	- Notebook con procesador i5 o superior (o equivalente).
-	- Soporte de virtualización habilitado (Intel VT o AMD-V). Sin este punto no funcionara la virtualización en el equipo
-	- Memoria RAM 8 GB o superior (idealmente 12GB o superior)
-	- 50 GB de espacio libre en disco
+- Notebook con procesador i5 o superior (o equivalente).
+- Soporte de virtualización habilitado (Intel VT o AMD-V). Sin este punto no funcionara la virtualización en el equipo
+- Memoria RAM 8 GB o superior (idealmente 12GB o superior)
+- 50 GB de espacio libre en disco
 
 
 
